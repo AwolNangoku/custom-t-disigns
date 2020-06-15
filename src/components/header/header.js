@@ -1,5 +1,6 @@
 import React from 'react'
 import NavLink from './navLink';
+import styles from '../../pages/siteCSS.module.css';
 
 const Header = () => (
     <header style={{backgroundColor: "rgb(225,224,234)", width: "100%", height: "100px"}}>
